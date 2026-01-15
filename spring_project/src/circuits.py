@@ -1,0 +1,1 @@
+spark.read.csv("/Volumes/workspace/default/F1/raw/circuits.csv").show(5)
